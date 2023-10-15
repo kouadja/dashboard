@@ -1,0 +1,7 @@
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <solid android:color="#000"/> <!-- Remplace cette valeur par la couleur que tu veux -->
+    <corners android:radius="8dp"/> <!-- Cela arrondira les coins du bouton, si tu veux -->
+</shape>
+
